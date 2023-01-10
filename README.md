@@ -4,7 +4,7 @@
  - Database (Calendar) Query Test
   
 ## Before start node.js
-- set own .env configuration (secret_key & database_id)
+- set your own .env configuration (secret_key & database_id)
 - make sure your Notion database is connected with your API integration.
 - install node_modules
 ```
